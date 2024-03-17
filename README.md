@@ -1,10 +1,21 @@
-# Markdown syntax guide
+# 我的個人學習專區
+## 說明
+**這裡是我用來記錄學習的程式範本以供後續參考使用**
+## 自我介紹 
+**我是James(張康羿),我來自台灣新竹縣**
+![This is an alt text.](/image/胸毛公寓.jpg "This is a sample image.")
 
-## Headers
+## 履歷表
 
-# This is a Heading h1
-## This is a Heading h2
-###### This is a Heading h6
+| 年分     |                        工作 |
+| ------------- |:----------------------:|
+| 108      | 台灣銀行-學貸專員(工讀)     |
+| 109      | 欣興電子-品管師(工讀)       |
+| 110      | 富邦銀行-學貸專員(工讀)     |
+| 111~112  | 威策電腦 -駐廠工程師(實習)  |
+| 113      | 新竹臺大醫院-資訊工程師     |
+
+****後續再補充****
 
 ## Emphasis
 
@@ -33,9 +44,6 @@ _You **can** combine them_
     1. Item 3a
     2. Item 3b
 
-## Images
-
-![This is an alt text.](/image/胸毛公寓.jpg "This is a sample image.")
 
 ## Links
 
@@ -47,13 +55,6 @@ You may be using [Markdown Live Preview](https://markdownlivepreview.com/).
 >
 >> Markdown is often used to format readme files, for writing messages in online discussion forums, and to create rich text using a plain text editor.
 
-## Tables
-
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
 
 ## Blocks of code
 
